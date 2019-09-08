@@ -36,7 +36,7 @@ of holiday.
 
 Every student, as part of its duty, will take part in a committee that helps to sup-
 port or improve the program.
-## CS50 (Computer Science Introduction)
+# CS50 (Computer Science Introduction)
 
 Introduction to the intellectual enterprises of computer science and the art
 of programming. This course teaches students how to think algorithmically
@@ -86,7 +86,7 @@ space.
 cs50-2019-5873aa0ba024
 
 
-### How to register as a coach !!!
-### How to register as a student !!!
+## How to register as a coach !!!
+## How to register as a student !!!
 ### Who are we ?
 
