@@ -12,7 +12,7 @@ frastructure together.
 Our program is cost-effective and scalable to other countries.
 We have a selection process to identify the talents that can match our program.
 
-### What we organized next ?
+## What we organized next ?
 
 We are a non-profit that gives talents access to skills and projects for the 21st cen-
 tury.
@@ -36,7 +36,7 @@ of holiday.
 
 Every student, as part of its duty, will take part in a committee that helps to sup-
 port or improve the program.
-### CS50 (Computer Science Introduction)
+## CS50 (Computer Science Introduction)
 
 Introduction to the intellectual enterprises of computer science and the art
 of programming. This course teaches students how to think algorithmically
@@ -86,27 +86,7 @@ space.
 cs50-2019-5873aa0ba024
 
 
+### How to register as a coach !!!
+### How to register as a student !!!
+### Who are we ?
 
-## future
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/institute-of-digital-studies/21centuryskills/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
